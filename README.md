@@ -1,17 +1,9 @@
-
-
-
-Computer Applications Project
-
-10th ICSE (Section: F )
-(Academic Year: 2016 – 2017)
-
-Tic Tac Toe
+**Tic Tac Toe**
 	
 Prepared by: -
-1.	Jaimin Vadera (Roll no. 12)
-2.	Pranay Simejia (Roll no. 24)
-3.	Peeyush Mishra (Roll no. 23)
+1.	Jaimin Vadera 
+2.	Pranay Simejia 
+3.	Peeyush Mishra 
 
 Introduction
 The Game of Tic Tac Toe is an all-time favourite all over the world. When we look for this game’s history, Tic Tac Toe is an ancient game that billions of people have played over course of history. While some experts believe the game dates back to the ancient Egyptians, others believe it evolved from an ancient Roman game called Terni Lapilli. Still, nothing can be said.
